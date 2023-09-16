@@ -1,68 +1,30 @@
-# Hi there! 👋
+![portfolio image](portfolio.png)
+# Hello 👋 I'm Diego!
 
-I'm Diego Vargas, a passionate Frontend Web Developer with a strong focus on modern web technologies. I thrive in collaborative environments and enjoy supporting my team members, whether it's tackling complex problems or taking on leadership roles. My proactive and disciplined approach, along with a strong desire for continuous learning, drives me to face new challenges head-on.
+# 💫 About Me:
 
-## 👨‍💻 Employment History
+I am a young developer specialized in front-end
+technologies with the ability to learn quickly, I like
+to work in a team and support my co-workers,
+whether helping them with complex problems or
+leading. Among my qualities I stand out for being
+proactive and disciplined, in addition to the great
+desire to learn and face new challenges.
 
-**Software Developer** at Grupo MediaSoft
-*October 2021 — July 2022*
+🔭 I’m currently working on a Spotify Clone.<br>🌱 I’m currently learning Next.js<br>
 
-- Led a team of 5 members in designing, analyzing, and developing code for an internet banking solution.
-- Effective communication and successful implementation of team-approved solutions.
-- Proficient use of design software for project assistance.
-- Accurate coding of software changes based on specific design specifications.
-- Thorough testing, configuration, and maintenance of high-functioning software and hardware.
 
-## 🚀 Projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diegovs05) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/diegovs05) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/diegov05) 
 
-**FilmasterV2**
-- A responsive, modern UI/UX Movie Catalog Application built with React, TypeScript, Tailwind, Firebase Hosting, and Firestore Database, extracting information from the TMDB API.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=diegov05&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=diegov05&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegov05&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-**FilmasterV3**
-- A MERN stack version of Filmaster, offering a responsive, modern UI/UX Movie Catalog Application with TypeScript, Tailwind, Firebase & Heroku Hosting, and SwaggerUI.
+---
+[![](https://visitcount.itsvg.in/api?id=diegov05&icon=0&color=9)](https://visitcount.itsvg.in)
 
-**QuikTodos**
-- A responsive Pokedex Application using React, TypeScript, and Tailwindcss, fetching data from the PokeAPI.
-
-**Personal Portfolio**
-- My personal web development portfolio showcasing projects built with React, TypeScript, and Tailwindcss.
-
-## 📞 Contact Information
-
-- Phone: 978-635-6863
-- Email: diegovs_@outlook.com
-- GitHub: [diegov05](https://github.com/diegov05)
-- Portfolio: [diegovargasv1.web.app](https://diegovargasv1.web.app)
-
-## 💼 Skills
-
-### Programming Languages
-JavaScript, TypeScript, HTML, CSS, SQL, Python, Java
-
-### Libraries and Frameworks
-React, Next.js, Tailwind, MongoDB, PostgreSQL, Node.js, Express.js, Prisma, TypeGraphQL, GraphQL, Apollo
-
-### Tools and Platforms
-Git, GitHub, Firebase, Netlify, Figma, Photoshop, Notion
-
-## 🎉 Other Fun Stuff
-
-**Pokedex**
-- A responsive Pokedex Application utilizing React, TypeScript, and Tailwindcss, powered by the PokeAPI.
-
-**Spotify Clone**
-- A Spotify Clone created with Next.js 13, Supabase, RadixUI, and Tailwindcss, complete with test payment integration using Stripe.
-
-## 🌐 Languages
-
-- English
-- Spanish
-
-## 🔗 Links
-
-- GitHub Profile: [GitHub](https://github.com/diegov05)
-- LinkedIn Profile: [LinkedIn](Your LinkedIn Profile URL)
-- CodePen Profile: [CodePen](Your CodePen Profile URL)
-- CodeSandbox Profile: [CodeSandbox](Your CodeSandbox Profile URL)
-
-Feel free to connect with me on GitHub or LinkedIn, and explore my projects on GitHub. I'm always excited to collaborate and learn from others in the developer community! 😄
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
