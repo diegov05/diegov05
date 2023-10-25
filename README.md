@@ -11,7 +11,7 @@ leading. Among my qualities I stand out for being
 proactive and disciplined, in addition to the great
 desire to learn and face new challenges.
 
-🔭 I’m currently working on a Spotify Clone.<br>🌱 I’m currently learning Next.js<br>
+🔭 I’m currently working on an E-commerce App.<br>🌱 I’m currently learning Next.js<br>
 
 
 ## 🌐 Socials:
