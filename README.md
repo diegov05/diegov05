@@ -1,4 +1,4 @@
-![portfolio image](portfolio.png)
+![portfolio image](LinkedInBanner.png)
 # Hello 👋 I'm Diego!
 
 # 💫 About Me:
