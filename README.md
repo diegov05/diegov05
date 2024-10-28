@@ -1,6 +1,6 @@
 ![portfolio image](header.png)
 
-# 💫 About Me:
+#  About Me:
 
 I am a young developer specialized in front-end
 technologies with the ability to learn quickly, I stand out for being
