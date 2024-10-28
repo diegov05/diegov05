@@ -1,5 +1,4 @@
 ![portfolio image](header.png)
-# Hello 👋 I'm Diego!
 
 # 💫 About Me:
 
