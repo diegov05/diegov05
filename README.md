@@ -2,10 +2,13 @@
 
 #  About Me:
 
-I am a young developer specialized in front-end
-technologies with the ability to learn quickly, I stand out for being
-proactive and disciplined, in addition to the great
-desire to learn and face new challenges. Among my skills you can find
+Hey, I’m Diego! I’m a Full-Stack Developer with 2+ years of experience in web application development, specializing in the React ecosystem, Node.js, and styling with Tailwind CSS. I also work extensively with UI libraries like MUI and Shadcn.
+
+I create responsive and user-friendly interfaces using Next.js, TypeScript, and Tailwind CSS, and build efficient backend systems with Node.js, Express, Prisma, Apollo, and GraphQL. My approach emphasizes both functionality and aesthetics for an enhanced user experience.
+
+I work with SQL databases like PostgreSQL and MySQL for data management and utilize deployment platforms like Docker, Heroku, AWS, and Vercel.
+
+Currently, I’m expanding my skills in C# and ASP.NET Core!
 
 **Front-End**  
 
