@@ -1,4 +1,4 @@
-![portfolio image](header.png)
+![portfolio image](banner.png)
 
 #  About Me:
 
