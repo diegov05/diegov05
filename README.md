@@ -2,16 +2,11 @@
 
 #  About Me:
 
-Hey, I’m Diego! I’m a Full-Stack Developer with 2+ years of experience in web application development, specializing in the React ecosystem, Node.js, and styling with Tailwind CSS. I also work extensively with UI libraries like MUI and Shadcn.
+Hey, I’m Diego — a Full-Stack Developer passionate about building experiences that feel as good as they look. Over the past few years, I’ve worked on projects that blend solid engineering with clean, intuitive design — from high-traffic marketing sites to dynamic internal tools.
 
-I create responsive and user-friendly interfaces using Next.js, TypeScript, and Tailwind CSS, and build efficient backend systems with Node.js, Express, Prisma, Apollo, and GraphQL. My approach emphasizes both functionality and aesthetics for an enhanced user experience.
-
-I work with SQL databases like PostgreSQL and MySQL for data management and utilize deployment platforms like Docker, Heroku, AWS, and Vercel.
-
-Currently, I’m expanding my skills in C# and ASP.NET Core!
+I love turning ideas into interactive, purposeful interfaces and crafting systems that stay fast, reliable, and maintainable as they grow. My work often bridges design and development, helping teams deliver products that are both beautiful and functional.
 
 **Front-End**  
-
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
